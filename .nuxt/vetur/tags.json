@@ -1,0 +1,29 @@
+{
+  "ColorModePicker": {
+    "description": "Auto imported from components/ColorModePicker.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Notification": {
+    "description": "Auto imported from components/Notification.vue"
+  },
+  "FormTutorialAdd": {
+    "description": "Auto imported from components/form/TutorialAdd.vue"
+  },
+  "FormTutorialEdit": {
+    "description": "Auto imported from components/form/TutorialEdit.vue"
+  },
+  "FormUserAdd": {
+    "description": "Auto imported from components/form/UserAdd.vue"
+  },
+  "FormUserEdit": {
+    "description": "Auto imported from components/form/UserEdit.vue"
+  },
+  "LayoutsHeader": {
+    "description": "Auto imported from components/layouts/Header.vue"
+  },
+  "LayoutsSidebar": {
+    "description": "Auto imported from components/layouts/Sidebar.vue"
+  }
+}

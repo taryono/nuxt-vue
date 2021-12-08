@@ -1,0 +1,114 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_5f747b9f"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_70fe47ac"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_5a55437e"
+  },
+  {
+    "name": "tutorials",
+    "path": "/tutorials",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\tutorials\\\\index.vue",
+    "chunkName": "pages/tutorials/index",
+    "_name": "_832f3a84"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_3b3197aa"
+  },
+  {
+    "name": "tutorials-add",
+    "path": "/tutorials/add",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\tutorials\\\\add\\\\index.vue",
+    "chunkName": "pages/tutorials/add/index",
+    "_name": "_c47b3856"
+  },
+  {
+    "name": "tutorials-auth",
+    "path": "/tutorials/auth",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\tutorials\\\\auth.vue",
+    "chunkName": "pages/tutorials/auth",
+    "_name": "_4e423d28"
+  },
+  {
+    "name": "tutorials-lists",
+    "path": "/tutorials/lists",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\tutorials\\\\lists\\\\index.vue",
+    "chunkName": "pages/tutorials/lists/index",
+    "_name": "_0451053e"
+  },
+  {
+    "name": "tutorials-view",
+    "path": "/tutorials/view",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\tutorials\\\\view\\\\index.vue",
+    "chunkName": "pages/tutorials/view/index",
+    "_name": "_1178d479"
+  },
+  {
+    "name": "users-add",
+    "path": "/users/add",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\users\\\\add\\\\index.vue",
+    "chunkName": "pages/users/add/index",
+    "_name": "_b14322f0"
+  },
+  {
+    "name": "users-auth",
+    "path": "/users/auth",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\users\\\\auth.vue",
+    "chunkName": "pages/users/auth",
+    "_name": "_bf8ca342"
+  },
+  {
+    "name": "users-lists",
+    "path": "/users/lists",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\users\\\\lists\\\\index.vue",
+    "chunkName": "pages/users/lists/index",
+    "_name": "_109ba754"
+  },
+  {
+    "name": "users-profile",
+    "path": "/users/profile",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\users\\\\profile\\\\index.vue",
+    "chunkName": "pages/users/profile/index",
+    "_name": "_36616100"
+  },
+  {
+    "name": "tutorials-edit-id",
+    "path": "/tutorials/edit/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\tutorials\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/tutorials/edit/_id/index",
+    "_name": "_667525a6"
+  },
+  {
+    "name": "users-edit-id",
+    "path": "/users/edit/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\users\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/users/edit/_id/index",
+    "_name": "_7345c3ce"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp64\\\\www\\\\nuxt-vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6e89a241"
+  }
+]
